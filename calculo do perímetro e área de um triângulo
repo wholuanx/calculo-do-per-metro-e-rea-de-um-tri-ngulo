@@ -1,0 +1,8 @@
+largura = float (input("Digite quanto de largura o retângulo tem: "))
+altura = float (input("Digite o quanto de altura o retângulo tem: "))
+
+area = largura * altura 
+perimetro = 2 * (largura + altura)
+
+print ("A área do retângulo é: ", area)
+print ("O perimetro do retângulo é: ", perimetro)
